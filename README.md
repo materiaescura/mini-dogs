@@ -30,7 +30,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
    ```bash
     # Clone este repositório
-    $ git clone https://github.com/materiaescura/insta-dogs.git
+    $ git clone https://github.com/materiaescura/mini-dogs.git
 
     # Acesse a pasta do projeto no seu terminal/cmd
     $ cd insta-dogs
